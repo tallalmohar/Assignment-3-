@@ -6,6 +6,8 @@
 
 using namespace std;
 
+//COMMIT CHANGES ON GITHUB TEST1
+
 void welcomeMessage() {
   cout << "********************************************\n"
        << "Welcome to Roller's Un-Random house of dice!\n"
